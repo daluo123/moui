@@ -1,0 +1,10 @@
+.idea
+.vscode
+node_modules/
+*.log
+*.css.map
+.DS_Store
+dist/
+.local/
+.tmp/
+vendor/
